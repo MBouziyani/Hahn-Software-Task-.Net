@@ -105,5 +105,3 @@ npm test
 ---
 
 Now you're ready to run the Ticket Management System. For any issues, double-check the configuration and make sure all prerequisites are installed.
-```
-
